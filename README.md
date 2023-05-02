@@ -1,6 +1,6 @@
 <h1>Hi, I'm Michael and I'm passionate about Cybersecurity!
 
-<h2>👨‍My Projects:</h2>
+<h2>My Projects:</h2>
 
 - <b>Azure / Cloud Projects</b>
   - [Creating a live SOC + HoneyNet in Azure](https://github.com/abelennon/Azure-SOC)
