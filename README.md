@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael, Cybersecurity Analyst!
+<h1>Hi! I'm Michael, Cybersecurity Analyst!
 
 <h2>My Projects</h2>
 
